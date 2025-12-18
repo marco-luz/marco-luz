@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Marco Antonio da Luz
 
-**`Desenvolvedor SQL, PL-SQL e Java`**
+**`Desenvolvedor | Oracle PL/SQL | SQL Server |Java`**
 
 Me chamo Marco Antonio da Luz, tenho 49 anos e sou natural de Curitiba/PR. Concluí Bacharelado em Sistemas de Informação na Famec. Sou apaixonada por tecnologia, música e ciclismo.
 
