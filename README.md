@@ -2,10 +2,9 @@
 
 **`Desenvolvedor | Oracle PL/SQL | SQL Server | Java`**
 
-Analista Desenvolvedor com atuação em Oracle PL/SQL, SQL Server e Java.</br>
-Este GitHub é dedicado a projetos de estudo e aperfeiçoamento técnico em SQL e PL/SQL,
-com foco em desenvolvimento, performance, modelagem de dados e estruturação de bases de dados,
-além de projetos backend em Java e Oracle APEX.
+Analista Desenvolvedor com atuação em Oracle PL/SQL, SQL Server e Java.
+</br></br>
+Este GitHub é dedicado a projetos de estudo e aprimoramento técnico em SQL e PL/SQL, com foco em desenvolvimento, performance, modelagem de dados e estruturação de bases de dados, além de projetos backend em Java e Oracle APEX.
 
 <p align="left">
     <a href="https://github.com/marco-luz">
