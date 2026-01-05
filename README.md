@@ -2,13 +2,10 @@
 
 **`Desenvolvedor | Oracle PL/SQL | SQL Server | Java`**
 
-Me chamo Marco Antonio da Luz, tenho 49 anos e sou natural de Curitiba/PR. Concluí Bacharelado em Sistemas de Informação na Famec.
-</br>
-Sou apaixonada por tecnologia, música e ciclismo.
-</br>
-Atuo com Desenvolvimento de banco de dados desde 2011 com atuação em Oracle e SQL Server.
-</br>
-Eu já trabalhei com desenvolviento em Java e hoje desenvolvo meus projetos pessoais de estudos aqui no GitHub, tanto em Java como no aprimoramento de banco de dados, desde o desenvolvimento até modelagem e performance.
+Analista Desenvolvedor com atuação em Oracle PL/SQL, SQL Server e Java.
+Este GitHub é dedicado a projetos de estudo e aperfeiçoamento técnico em SQL e PL/SQL,
+com foco em desenvolvimento, performance, modelagem de dados e estruturação de bases de dados,
+além de projetos backend em Java e Oracle APEX.
 
 <p align="left">
     <a href="https://github.com/marco-luz">
@@ -153,7 +150,7 @@ Eu já trabalhei com desenvolviento em Java e hoje desenvolvo meus projetos pess
 
 <br/>
 <br/>
-
+<!--
 ### 📊 Estatísticas
 
 <p>
@@ -173,3 +170,4 @@ Eu já trabalhei com desenvolviento em Java e hoje desenvolvo meus projetos pess
   />
 
 </p>
+/>
