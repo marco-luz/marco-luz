@@ -46,7 +46,7 @@ Este GitHub é dedicado a projetos de estudo e aprimoramento técnico em SQL e P
     align="left" 
     alt="Oracle" 
     title="Oracle"
-    width="50px" 
+    width="55px" 
     style="padding-right: 20px;" 
     src="https://img.icons8.com/?size=100&id=39913&format=png&color=000000" 
 />
@@ -57,6 +57,14 @@ Este GitHub é dedicado a projetos de estudo e aprimoramento técnico em SQL e P
     width="33px" 
     style="padding-right: 10px;" 
     src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" 
+/>
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/?size=100&id=60FAtwL6Hs1F&format=png&color=000000" 
 />
 <!--<img 
     align="left" 
